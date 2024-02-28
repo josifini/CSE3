@@ -1,0 +1,15 @@
+/Users/josifinimotukiliu/CSE3/CSE3/bin/Debug/net7.0/CSE3
+/Users/josifinimotukiliu/CSE3/CSE3/bin/Debug/net7.0/CSE3.deps.json
+/Users/josifinimotukiliu/CSE3/CSE3/bin/Debug/net7.0/CSE3.runtimeconfig.json
+/Users/josifinimotukiliu/CSE3/CSE3/bin/Debug/net7.0/CSE3.dll
+/Users/josifinimotukiliu/CSE3/CSE3/bin/Debug/net7.0/CSE3.pdb
+/Users/josifinimotukiliu/CSE3/CSE3/obj/Debug/net7.0/CSE3.csproj.AssemblyReference.cache
+/Users/josifinimotukiliu/CSE3/CSE3/obj/Debug/net7.0/CSE3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josifinimotukiliu/CSE3/CSE3/obj/Debug/net7.0/CSE3.AssemblyInfoInputs.cache
+/Users/josifinimotukiliu/CSE3/CSE3/obj/Debug/net7.0/CSE3.AssemblyInfo.cs
+/Users/josifinimotukiliu/CSE3/CSE3/obj/Debug/net7.0/CSE3.csproj.CoreCompileInputs.cache
+/Users/josifinimotukiliu/CSE3/CSE3/obj/Debug/net7.0/CSE3.dll
+/Users/josifinimotukiliu/CSE3/CSE3/obj/Debug/net7.0/refint/CSE3.dll
+/Users/josifinimotukiliu/CSE3/CSE3/obj/Debug/net7.0/CSE3.pdb
+/Users/josifinimotukiliu/CSE3/CSE3/obj/Debug/net7.0/CSE3.genruntimeconfig.cache
+/Users/josifinimotukiliu/CSE3/CSE3/obj/Debug/net7.0/ref/CSE3.dll
